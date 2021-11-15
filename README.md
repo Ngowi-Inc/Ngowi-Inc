@@ -2,7 +2,8 @@
 - 👀 I’m interested in front end dev
 - 🌱 I’m currently learning Css and then hop in Javascript 
 - 💞️ I’m looking to collaborate on making the interactive websites
-- 📫 How to reach me . On Twitter @Ngowi_Inc
+- 📫 How to reach me . On Twitter @Ngowi_Inc 
+-                     . Email: chrisjr360@gmail.com
 
 <!---
 Ngowi-Inc/Ngowi-Inc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
